@@ -5,19 +5,32 @@ Free CS Education Tools
 Hello World.
 =============
 
-This site is dedicated to providing links to websites, textbooks, videos, etc. that would benefit any student who is studying Computer Science or a related field.
+I'll get right to the chase: This site is meant to help YOU get better at Computer Science.
 
-I take great pride in the work that the community has done in discovering resources that provide solid, reputable information beneficial to anyone and everyone.
+I hope that got your attention. Let me explain a little more as to what this website is and is not.
 
-With that being said, I cannot personally vouch for every resource here. Nor do I have authority to control the content of every resource here as well. Thus, if there is an issue with a resource, I recommend creating an issue on our `GitHub page`_.
+* This is a website meant to collect and expose free resources for students at any level.
 
-While on that subject, if you would like to add resources to this project, please create a pull request containing the changes that you want to make to the website.
+* This is not a website meant to host links to pirated materials.
 
-Best of luck, and happy learning.
+* This is a community driven website where anyone of any skill level can contribute to.
+
+* This is not a profitible website (I intend to make zero dollars off of this site).
+
+* This is a tool that I wish I had when I first started learning.
+
+Hopefully that clears up the purpose of the website. Again this is a community driven website whose purpose is to provide free information for students of any level to learn Computer Science or a releated sub-field.
+
+If you like what you see here, please contribute to the project by visiting the `Github project page`_. If this is your first time contributing to a project, DON'T PANIC. This site was created by the Sphinx engine and all of the .html pages are generated from .rst files. Complicated? Maybe. But it is alot easier done than said. And as is often the case with Computer Science: if you are confused about something, look it up.
+
+None the less, I hope you enjoy your stay here. If not, please try to fix it on your end to make it better. Otherwise, if you did enjoy your stay, please contribute to or maintain this website by making pull requests on the `Github project page`_.
+
+Thank you.
 
 Sincerly,
 
-Nicholas Synovic
+Nicholas M. Synovic
+
 
 ===========
 Page Links
@@ -31,4 +44,4 @@ Page Links
    websites
    video
 
-.. _Github page: https://github.com/NicholasSynovic/CS-Websites
+.. _Github project page: https://github.com/NicholasSynovic/Free-CS-Education

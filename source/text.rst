@@ -29,7 +29,7 @@ Text Resources
 	*	-	A Whirlwind Tour of Python
 		-	https://jakevdp.github.io/WhirlwindTourOfPython/
 		-	This free e-book is a fast-paced intro to Python aimed at researchers and engineers.
-		-	Python, Beginner
+		-	Python
 
 	*	-	PHP Manual
 		-	https://www.php.net/manual/en/index.php
@@ -40,12 +40,12 @@ Text Resources
 		-	https://github.com/ziishaned/learn-regex
 		-	Regex Reference
 		-	Regex
-	
+
 	*	-	Python Data Science Handbook
 		-	https://jakevdp.github.io/PythonDataScienceHandbook/
 		-	This website contains the full text of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub in the form of Jupyter notebooks.
 		-	Python, Data Science
-		
+
 	*	-	Neural Networks and Deep Learning
 		-	http://neuralnetworksanddeeplearning.com/index.html
 		-	Neural Networks and Deep Learning is a free online book.

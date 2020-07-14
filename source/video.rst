@@ -14,7 +14,7 @@ Video Resources
 	*	-	Computerphile
 		-	https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA
 		-	Videos all about computers and computer stuff.
-		-	Computer Science
+		-	Computing
 
 	*	-	Brackeys
 		-	https://www.youtube.com/c/Brackeys/
@@ -24,14 +24,14 @@ Video Resources
 	*	-	The Coding Train
 		-	https://www.youtube.com/thecodingtrain/
 		-	The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.
-		-	Computer Science
+		-	JavaScript, p5.js, Processing, Coding Challenges
 
 	*	-	CodeBullet
 		-	https://www.youtube.com/c/CodeBullet
 		-	If you want a mix between nerdy and awesome then look no further, because Code Bullet has plenty of both.
-		-	Computer Science, Machine Learning
-	
+		-	Machine Learning, JavaScript, Python
+
 	*	-	Neural Networks by 3Blue1Brown
 		-	https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 		-	Basic Neural Network and Deep Learning Series
-		-	Neural Networks, Deep Learning
+		-	Math, Neural Networks, Deep Learning

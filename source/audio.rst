@@ -15,9 +15,9 @@ Audio Resources
 	*	-	Software Engineering Radio
 		-	https://open.spotify.com/show/6UO3XQclSuNnGxB39QdAnL
 		-	Software Engineering Radio is a podcast targeted at the professional software developer.
-		-	Podcast, Java
+		-	Podcast, Software Engineering
 
 	*	-	The Real Python Podcast
 		-	https://open.spotify.com/show/41Av6Rq81LfOT3Volz7W9D
 		-	A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
-		-	Podcast, Python
+		-	Podcast, Software Engineering
