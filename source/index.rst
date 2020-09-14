@@ -1,4 +1,4 @@
-Free CS Education Tools
+Free CS Education
 =================================================
 
 =============
